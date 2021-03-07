@@ -318,6 +318,8 @@
 .footer__column_content_copyright {
   display: flex;
   flex-basis: 771px;
+  flex-direction: column;
+  justify-content: space-between;
 }
 
 .logo_place_footer {
@@ -329,15 +331,12 @@
 }
 
 .footer__author {
-  position: absolute;
   line-height: 25px;
   font-size: 18px;
   font-weight: normal;
   margin-top: 18px;
   margin-bottom: 18px;
   color: white;
-  bottom: 0;
-  left: 0;
 }
 
 .footer__column_content_info {
