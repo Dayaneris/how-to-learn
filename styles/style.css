@@ -119,6 +119,10 @@
   color: #000000;
 }
 
+.two-columns__paragraph:last-of-type {
+  margin-bottom: 0px;
+}
+
 .two-columns__span-accent {
   line-height: 34px;
   font-size: 24px;
