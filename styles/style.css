@@ -1,6 +1,6 @@
-/*div, img, p, h1, h2, h3, section, footer, a, ul {*/
-/*  border: 1px solid red;*/
-/*}*/
+div, img, p, h1, h2, h3, section, footer, a, ul {
+  border: 1px solid red;
+}
 
 .page {
   min-width: 1100px;
@@ -22,7 +22,7 @@
 .logo {
   width: 183px;
   height: 32px;
-  background-image: url(../images/logo_place_header.svg);
+  background-image: url("../images/logo_place_header.svg");
 }
 
 .logo_place_header {
