@@ -60,6 +60,7 @@
 
 .header__link {
   color: #2f80ed;
+  text-decoration: none;
 }
 
 .header__main-illustration {
@@ -95,6 +96,7 @@
 
 .two-columns__brief {
   margin-top: 0;
+  margin-bottom: 0;
   line-height: 1.2;
   font-size: 18px;
   color: #2f80ed;
@@ -179,6 +181,7 @@
   font-size: 24px;
   font-weight: bold;
   margin-top: 0;
+  margin-bottom: 0;
 }
 
 .table__text {
@@ -186,6 +189,7 @@
   font-size: 18px;
   font-weight: normal;
   margin-top: 20px;
+  margin-bottom: 0;
 }
 
 .feynman {
@@ -339,8 +343,8 @@
 .footer__column_content_info {
   display: flex;
   flex-direction: column;
-  margin-left: auto;
-  margin-right: auto;
+  margin-left: 0;
+  margin-right: 0;
 }
 
 .footer__column-heading {
@@ -369,8 +373,8 @@
 .footer__column_content_social {
   display: flex;
   flex-direction: column;
-  margin-left: auto;
-  margin-right: auto;
+  margin-left: 0;
+  margin-right: 0;
 }
 
 .footer__social-icon {
