@@ -4,13 +4,6 @@
 
 
 
-.two-columns {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-  width: 80%;
-}
-
 .two-columns__brief {
   margin-top: 0;
   margin-bottom: 0;
