@@ -2,21 +2,6 @@
 /*  border: 1px solid red;*/
 /*}*/
 
-
-
-.logo {
-  width: 183px;
-  height: 32px;
-  background-image: url("../images/logo_place_header.svg");
-}
-
-.logo_place_header {
-  position: absolute;
-  top: 30px;
-  left: 64px;
-  z-index: 1;
-}
-
 .description {
   margin-top: 100px;
   display: flex;
@@ -258,13 +243,7 @@
   justify-content: space-between;
 }
 
-.logo_place_footer {
-  display: flex;
-  width: 183px;
-  height: 35px;
-  background-image: url("../images/logo_place_footer.svg");
-  z-index: 1;
-}
+
 
 .footer__author {
   line-height: 25px;
