@@ -2,11 +2,7 @@
 /*  border: 1px solid red;*/
 /*}*/
 
-.description {
-  margin-top: 100px;
-  display: flex;
-  justify-content: center;
-}
+
 
 .two-columns {
   display: flex;
