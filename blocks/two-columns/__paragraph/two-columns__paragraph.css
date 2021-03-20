@@ -6,3 +6,7 @@
   margin-bottom: 30px;
   color: #000000;
 }
+
+.two-columns__paragraph:last-of-type {
+  margin-bottom: 0;
+}
