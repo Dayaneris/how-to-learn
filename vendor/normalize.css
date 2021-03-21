@@ -8,7 +8,7 @@
  * 2. Prevent adjustments of font size after orientation changes in iOS.
  */
 
-div, img, p, h1, h2, h3, section, footer, a, ul, li {
+div, img, p, h1, h2, h3, section, footer, article, a, ul, li {
   outline: 1px solid red;
 }
 
