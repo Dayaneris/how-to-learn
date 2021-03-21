@@ -3,4 +3,8 @@
   top: 30px;
   left: 64px;
   z-index: 1;
+  transition: opacity .5s linear;
+}
+.logo_place_header:hover {
+  opacity: .2;
 }
