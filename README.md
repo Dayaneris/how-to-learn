@@ -7,7 +7,7 @@
 3. Создавать файловую структуру по Nested БЭМ
 4. Изучить анимацию
 
-[Ссылка на проект](http://localhost:63342/how-to-learn/index.html?_ijt=nf1n84dpgnm2aik5c5ljfhmp8c)
+[Ссылка на проект](https://dayaneris.github.io/how-to-learn/)
 
 Автор: Сарбалина Даяна, 2021 год
 
